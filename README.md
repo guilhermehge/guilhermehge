@@ -4,7 +4,7 @@ I'm a mechanical engineer who graduated from CEFET-MG in Brazil. I've worked at 
 I'm currently studying Data Science and Data Analysis with Python, R, Power BI and a few other tools.
 I am taking an MBA Analytics Data Science course offered by FIA (Faculdade Instituto de Administração) also here in Brazil.
 
-The goal of this hub is to publish my individual projects, that includes data science projects such as exploratory analysis and modelling, Power BI dashboards of the data I work with and some other projects I wish to publish here.
+The goal of this repository is to publish my individual projects, that includes data science projects such as exploratory analysis and modelling, Power BI dashboards of the data I work with and some other projects I wish to publish here.
 
 
 - 📫 How to reach me: via email: guilhermehge@hotmail.com
