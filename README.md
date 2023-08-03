@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Guilherme Elias
 
-I'm a mechanical engineer who graduated from CEFET-MG in Brazil. I've worked at MRS Logística S/A, FCA (Fiat Chrysler Automobiles) and Volkswagen do Brasil.
-I'm currently studying Data Science and Data Analysis with Python, R, Power BI and a few other tools.
-I am taking an MBA Analytics Data Science course offered by FIA (Faculdade Instituto de Administração) also here in Brazil.
+Passionate data scientist leveraging data-driven insights to solve complex business problems and drive innovation for meaningful impact.
 
-The goal of this repository is to publish my individual projects, that includes data science projects such as exploratory analysis and modelling, Power BI dashboards of the data I work with and some other projects I wish to publish here.
+Experienced in working with extensive datasets, constructing machine learning models, designing robust data pipelines, evaluating outcomes, and effectively communicating findings to technical and non-technical stakeholders.
 
+Proficient in implementing and fine-tuning Deep Learning models, such as OpenAI's Whisper, in production environments using technologies like Docker, Kubernetes, and Airflow.
+
+I can speak Portuguese, English and a bit of German. 
 
 - 📫 How to reach me: via email: guilhermehge@hotmail.com
 
